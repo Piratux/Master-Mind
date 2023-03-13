@@ -1,5 +1,5 @@
 # Master-Mind
-A re-creation of a code-breaking game Master Mind in C using SDL2.<br />
+A re-creation of a code-breaking game Master Mind.<br />
 More info about the game concept can be found here: https://en.wikipedia.org/wiki/Mastermind_(board_game) <br />
 The project contains compiled demo Windows application under the name `Master Mind.exe`.
 
