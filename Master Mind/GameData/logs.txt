@@ -1,0 +1,9 @@
+Program started at:
+Mon Mar 13 21:06:41 2023
+Initialising options
+Couldn't identify option: PIXEL_SIE: 20
+FPS: 60
+Option initialisation finished
+Program ended at:
+Mon Mar 13 21:08:57 2023
+-------------------
