@@ -1,2 +1,0 @@
-PIXEL_SIE: 20
-FPS: 60
